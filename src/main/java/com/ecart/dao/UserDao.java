@@ -1,4 +1,4 @@
-package com.ecart.userdao;
+package com.ecart.dao;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;

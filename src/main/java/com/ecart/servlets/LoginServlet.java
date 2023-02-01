@@ -12,9 +12,9 @@ import javax.servlet.http.HttpSession;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 
+import com.ecart.dao.UserDao;
 import com.ecart.entities.User;
 import com.ecart.helper.FactoryProvider;
-import com.ecart.userdao.UserDao;
 
 /**
  * Servlet implementation class LoginServlet

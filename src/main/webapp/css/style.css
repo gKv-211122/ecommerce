@@ -1,5 +1,19 @@
 @charset "ISO-8859-1";
+
 .custom-bg {
 	
-	background: #512da8!important;
+	background: #512da8 !important;
+	
+}
+
+.list-group-item.active {
+	
+	background: #512da8 !important;
+	border-color: #512da8 !important;
+}
+
+.discount-label {
+	font-size: 10px!important;
+	font-style: italic!important;
+	
 }

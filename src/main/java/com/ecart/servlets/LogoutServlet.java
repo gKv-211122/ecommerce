@@ -9,9 +9,9 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
+import com.ecart.dao.UserDao;
 import com.ecart.entities.User;
 import com.ecart.helper.FactoryProvider;
-import com.ecart.userdao.UserDao;
 
 
 public class LogoutServlet extends HttpServlet {
